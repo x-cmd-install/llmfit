@@ -1,0 +1,64 @@
+about:
+  description: Hundreds of models & providers. One command to find what runs on your hardware.
+  license: MIT
+  homepage: 
+  head: ec652ba
+  archived: false
+  latestVersion: v1.1.12
+  collectedAt: 2026-08-29T07:30:07Z
+timeline:
+  created: 2026-02-15
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-28
+popularity:
+  star: 34473
+  watcher: 103
+  fork: 2156
+  release: 130
+  contributor: 102
+  pullRequest: 205
+  issue: 246
+language:
+  Rust: 1765480
+  Python: 199814
+  JavaScript: 119234
+  CSS: 34037
+  Shell: 10978
+  HTML: 3860
+  Makefile: 3013
+  Dockerfile: 1609
+  Nix: 1419
+totalLine: 2139444
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 6
+    mergedPR: 89
+    openPR: 13
+    closedIssue: 21
+    openIssue: 15
+    commit: 113
+  last90d:
+    since: 2026-05-31
+    release: 24
+    mergedPR: 251
+    openPR: 17
+    closedIssue: 46
+    openIssue: 21
+    commit: 347
+  last180d:
+    since: 2026-03-02
+    release: 89
+    mergedPR: 434
+    openPR: 22
+    closedIssue: 138
+    openIssue: 35
+    commit: 678
+  last360d:
+    since: 2025-09-03
+    release: 100
+    mergedPR: 494
+    openPR: 22
+    closedIssue: 202
+    openIssue: 44
+    commit: 869
