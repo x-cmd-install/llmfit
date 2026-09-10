@@ -2,28 +2,28 @@ about:
   description: "Hundreds of models & providers. One command to find what runs on your hardware."
   license: MIT
   homepage: 
-  head: abb1360
+  head: e5508a1
   archived: false
-  latestVersion: "v1.1.14"
-  latestRelease: "v1.1.14"
+  latestVersion: "v1.1.15"
+  latestRelease: "v1.1.15"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:50:13Z
+  collectedAt: 2026-09-10T16:32:30Z
 timeline:
   created: 2026-02-15
-  lastCommit: 2026-09-09
-  lastVersion: 2026-09-03
-  lastRelease: 2026-09-03
+  lastCommit: 2026-09-10
+  lastVersion: 2026-09-10
+  lastRelease: 2026-09-10
   lastPrerelease: 
 popularity:
-  star: 35417
-  watcher: 115
-  fork: 2251
-  release: 132
+  star: 35601
+  watcher: 112
+  fork: 2259
+  release: 133
   contributor: 117
-  pullRequest: 740
-  issue: 254
+  pullRequest: 743
+  issue: 256
 language:
-  Rust: 2052466
+  Rust: 2059930
   Python: 199814
   JavaScript: 120115
   CSS: 34037
@@ -32,66 +32,66 @@ language:
   Makefile: 3013
   Dockerfile: 2821
   Nix: 1419
-totalBytes: 2430702
+totalBytes: 2438166
 recent:
   last30d:
     since: 2026-08-11
-    release: 5
-    mergedPR: 86
+    release: 6
+    mergedPR: 88
     openPR: 15
-    closedIssue: 21
-    openIssue: 12
-    commit: 95
+    closedIssue: 22
+    openIssue: 13
+    commit: 98
   last60d:
     since: 2026-07-12
-    release: 12
-    mergedPR: 180
+    release: 13
+    mergedPR: 182
     openPR: 16
-    closedIssue: 41
-    openIssue: 15
-    commit: 192
+    closedIssue: 42
+    openIssue: 16
+    commit: 195
   last90d:
     since: 2026-06-12
-    release: 24
-    mergedPR: 263
+    release: 25
+    mergedPR: 265
     openPR: 19
-    closedIssue: 50
-    openIssue: 17
-    commit: 341
+    closedIssue: 51
+    openIssue: 18
+    commit: 344
   last180d:
     since: 2026-03-14
-    release: 73
-    mergedPR: 445
+    release: 74
+    mergedPR: 447
     openPR: 23
-    closedIssue: 127
-    openIssue: 24
-    commit: 624
+    closedIssue: 128
+    openIssue: 25
+    commit: 627
   last360d:
     since: 2025-09-15
     release: 100
-    mergedPR: 530
+    mergedPR: 532
     openPR: 23
-    closedIssue: 214
-    openIssue: 40
-    commit: 906
+    closedIssue: 215
+    openIssue: 41
+    commit: 909
   last720d:
     since: 2024-09-20
     release: 100
-    mergedPR: 530
+    mergedPR: 532
     openPR: 23
-    closedIssue: 214
-    openIssue: 40
-    commit: 1171
+    closedIssue: 215
+    openIssue: 41
+    commit: 1174
 total:
-  release: 132
-  mergedPR: 530
+  release: 133
+  mergedPR: 532
   openPR: 23
-  closedIssue: 214
-  openIssue: 40
-  commit: 1171
+  closedIssue: 215
+  openIssue: 41
+  commit: 1174
 ---
 path: /home/runner/.x-repo/github.com/AlexsJones/llmfit
-collectedAt: 2026-09-10T04:50:18Z
+collectedAt: 2026-09-10T16:32:36Z
 loc:
   Json:
     code: 525518
@@ -99,9 +99,9 @@ loc:
     blanks: 0
     files: 200
   Rust:
-    code: 45528
-    comments: 2879
-    blanks: 5114
+    code: 45690
+    comments: 2885
+    blanks: 5124
     files: 37
   Python:
     code: 4123
@@ -165,8 +165,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 3722
-    blanks: 1512
+    comments: 3730
+    blanks: 1514
     files: 24
   Text:
     code: 0
@@ -174,9 +174,9 @@ loc:
     blanks: 3
     files: 15
 total:
-  code: 582778
-  comments: 9704
-  blanks: 8093
+  code: 582940
+  comments: 9723
+  blanks: 8105
   files: 334
 ---
 
