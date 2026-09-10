@@ -12,6 +12,18 @@ Hundreds of models & providers. One command to find what runs on your hardware.
 x install llmfit
 ```
 
+## Code insight
+
+Total: **582,649** lines of code across **273** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Json | 525,518 | 0 | 0 | 200 |
+| Rust | 45,690 | 2,885 | 5,124 | 37 |
+| Python | 4,123 | 303 | 539 | 12 |
+| Jsx | 1,922 | 3 | 195 | 12 |
+| JavaScript | 1,783 | 6 | 140 | 12 |
+
 ## Source
 
 - **Upstream**: <https://github.com/AlexsJones/llmfit>
@@ -22,6 +34,25 @@ x install llmfit
 - **Latest**: `v1.1.15` (2026-09-10)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 18
+
+## Popularity
+
+- **Stars**: 35,679 · **Forks**: 2,261 · **Open issues**: 256 · **Contributors**: 117
+
+## Totals (cumulative)
+
+- **Releases**: 133 · **Merged PRs**: 532 · **Open PRs**: 23 · **Closed issues**: 215 · **Open issues**: 41 · **Commits**: 1174
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 6 | 88 | 15 | 22 | 13 | 98 |
+| last60d | 2026-07-12 | 13 | 182 | 16 | 42 | 16 | 195 |
+| 90d | 2026-06-12 | 25 | 265 | 19 | 51 | 18 | 344 |
+| last180d | 2026-03-14 | 74 | 447 | 23 | 128 | 25 | 627 |
+| 360d | 2025-09-15 | 100 | 532 | 23 | 215 | 41 | 909 |
+| last720d | 2024-09-20 | 100 | 532 | 23 | 215 | 41 | 1174 |
 
 ## Release assets
 
@@ -46,33 +77,15 @@ x install llmfit
 | [llmfit-v1.1.15-x86_64-unknown-linux-musl.tar.gz](https://github.com/AlexsJones/llmfit/releases/download/v1.1.15/llmfit-v1.1.15-x86_64-unknown-linux-musl.tar.gz) | 6.7 MiB | `native/linux/x64/musl` |
 | [llmfit-v1.1.15-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/AlexsJones/llmfit/releases/download/v1.1.15/llmfit-v1.1.15-x86_64-unknown-linux-musl.tar.gz.sha256) | 114 B | `native/linux/x64/musl` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 35,601 · **Forks**: 2,259 · **Open issues**: 256 · **Contributors**: 117
+Reported by **15** distros on [repology.org](https://repology.org/project/llmfit). **2** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 133 · **Merged PRs**: 532 · **Open PRs**: 23 · **Closed issues**: 215 · **Open issues**: 41 · **Commits**: 1174
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 6 | 88 | 15 | 22 | 13 | 98 |
-| 90d | 2026-06-12 | 25 | 265 | 19 | 51 | 18 | 344 |
-| 360d | 2025-09-15 | 100 | 532 | 23 | 215 | 41 | 909 |
-
-## Code size
-
-Total: **582,649** lines of code across **273** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Json | 525,518 | 0 | 0 | 200 |
-| Rust | 45,690 | 2,885 | 5,124 | 37 |
-| Python | 4,123 | 303 | 539 | 12 |
-| Jsx | 1,922 | 3 | 195 | 12 |
-| JavaScript | 1,783 | 6 | 140 | 12 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `1.1.14` | ⚠️ outdated |
+| Homebrew | `1.1.15` | ✅ latest |
+| Nix unstable | `1.1.10` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -83,4 +96,4 @@ Install metadata for llmfit lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:32:42Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:55:15Z._
