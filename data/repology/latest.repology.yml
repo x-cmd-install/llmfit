@@ -1,0 +1,165 @@
+- repo: alt_p11
+  srcname: llmfit
+  binnames:
+    - llmfit
+    - llmfit-debuginfo
+  visiblename: llmfit
+  version: 1.1.7
+  origversion: 1.1.7-alt1
+  status: outdated
+  summary: Hundreds of models & providers
+  maintainers:
+    - sirius@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Sciences/Computer science
+- repo: altsisyphus
+  srcname: llmfit
+  binnames:
+    - llmfit
+    - llmfit-debuginfo
+  visiblename: llmfit
+  version: 1.1.9
+  origversion: 1.1.9-alt1
+  status: outdated
+  summary: Hundreds of models & providers
+  maintainers:
+    - sirius@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Sciences/Computer science
+- repo: arch
+  subrepo: extra
+  srcname: llmfit
+  binname: llmfit
+  visiblename: llmfit
+  version: 1.1.14
+  origversion: 1.1.14-1
+  status: outdated
+  summary: CLI tool to tell which LLM models will run best on your hardware
+  licenses:
+    - MIT
+- repo: aur
+  srcname: llmfit-git
+  binname: llmfit-git
+  visiblename: llmfit-git
+  version: 0.9.35.r0.gc50d135
+  origversion: 0.9.35.r0.gc50d135-1
+  status: rolling
+  summary: Hundreds of models & providers. One command to find what runs on your hardware.
+  maintainers:
+    - anelgarhy@aur
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: llmfit
+  visiblename: llmfit
+  version: 1.1.6
+  origversion: null
+  status: outdated
+  summary: Hundreds of models & providers. One command to find what runs on your hardware
+- repo: homebrew
+  srcname: llmfit
+  visiblename: llmfit
+  version: 1.1.15
+  origversion: null
+  status: newest
+  summary: Find what models run on your hardware
+- repo: homebrew
+  srcname: llmfit
+  visiblename: llmfit
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Find what models run on your hardware
+- repo: macports
+  srcname: llm/llmfit
+  binname: llmfit
+  visiblename: llmfit
+  version: 1.1.14
+  origversion: null
+  status: outdated
+  summary: A terminal tool for finding best fitted LLM models for your machine.
+  maintainers:
+    - oytech@github
+  licenses:
+    - MIT
+  categories:
+    - llm
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: llmfit
+  binname: llmfit
+  visiblename: llmfit
+  version: 1.1.14
+  origversion: 1.1.14-1
+  status: outdated
+  summary: CLI tool to tell which LLM models will run best on your hardware
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: llmfit
+  binname: llmfit
+  visiblename: llmfit
+  version: 1.1.14
+  origversion: 1.1.14-1
+  status: outdated
+  summary: CLI tool to tell which LLM models will run best on your hardware
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: llmfit
+  binname: llmfit
+  visiblename: llmfit
+  version: 1.1.14
+  origversion: 1.1.14-1
+  status: outdated
+  summary: CLI tool to tell which LLM models will run best on your hardware
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: llmfit
+  visiblename: llmfit
+  version: 0.9.25
+  origversion: null
+  status: outdated
+  summary: TUI to find LLM models right sized for the system's RAM, CPU, and GPU
+  maintainers:
+    - mail@beyermatthias.de
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: llmfit
+  visiblename: llmfit
+  version: 1.1.10
+  origversion: null
+  status: outdated
+  summary: TUI to find LLM models right sized for the system's RAM, CPU, and GPU
+  maintainers:
+    - mail@beyermatthias.de
+  licenses:
+    - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: llmfit
+  binname: llmfit
+  visiblename: llmfit
+  version: 1.1.14
+  origversion: 1.1.14-1
+  status: outdated
+  summary: CLI tool to tell which LLM models will run best on your hardware
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: llmfit
+  visiblename: llmfit
+  version: 1.1.15
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
