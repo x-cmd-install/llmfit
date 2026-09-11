@@ -35,9 +35,9 @@
   srcname: llmfit
   binname: llmfit
   visiblename: llmfit
-  version: 1.1.14
-  origversion: 1.1.14-1
-  status: outdated
+  version: 1.1.15
+  origversion: 1.1.15-1
+  status: newest
   summary: CLI tool to tell which LLM models will run best on your hardware
   licenses:
     - MIT
