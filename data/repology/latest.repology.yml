@@ -1,3 +1,14 @@
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: llmfit
+  binname: llmfit
+  visiblename: llmfit
+  version: 1.1.15
+  origversion: 1.1.15-1
+  status: newest
+  summary: CLI tool to tell which LLM models will run best on your hardware
+  licenses:
+    - MIT
 - repo: alt_p11
   srcname: llmfit
   binnames:
@@ -78,9 +89,9 @@
   srcname: llm/llmfit
   binname: llmfit
   visiblename: llmfit
-  version: 1.1.14
+  version: 1.1.15
   origversion: null
-  status: outdated
+  status: newest
   summary: A terminal tool for finding best fitted LLM models for your machine.
   maintainers:
     - oytech@github
@@ -100,17 +111,6 @@
   licenses:
     - MIT
 - repo: manjaro_testing
-  subrepo: extra
-  srcname: llmfit
-  binname: llmfit
-  visiblename: llmfit
-  version: 1.1.14
-  origversion: 1.1.14-1
-  status: outdated
-  summary: CLI tool to tell which LLM models will run best on your hardware
-  licenses:
-    - MIT
-- repo: manjaro_unstable
   subrepo: extra
   srcname: llmfit
   binname: llmfit
