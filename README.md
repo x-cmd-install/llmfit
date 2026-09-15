@@ -14,12 +14,12 @@ x install llmfit
 
 ## Code insight
 
-Total: **587,263** lines of code across **391** files in the top 5 languages.
+Total: **589,693** lines of code across **451** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 529,379 | 0 | 0 | 317 |
-| Rust | 46,443 | 2,932 | 5,173 | 38 |
+| Json | 531,458 | 0 | 0 | 377 |
+| Rust | 46,794 | 2,984 | 5,200 | 38 |
 | Python | 4,123 | 303 | 539 | 12 |
 | Jsx | 1,922 | 3 | 195 | 12 |
 | JavaScript | 1,783 | 6 | 140 | 12 |
@@ -32,27 +32,27 @@ Total: **587,263** lines of code across **391** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.1.15` (2026-09-10)
-- **Last commit**: 2026-09-13
+- **Last commit**: 2026-09-14
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 36,454 · **Forks**: 2,304 · **Open issues**: 259 · **Contributors**: 117
+- **Stars**: 36,585 · **Forks**: 2,313 · **Open issues**: 262 · **Contributors**: 126
 
 ## Totals (cumulative)
 
-- **Releases**: 133 · **Merged PRs**: 535 · **Open PRs**: 30 · **Closed issues**: 216 · **Open issues**: 43 · **Commits**: 1177
+- **Releases**: 133 · **Merged PRs**: 547 · **Open PRs**: 23 · **Closed issues**: 218 · **Open issues**: 44 · **Commits**: 1189
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 6 | 83 | 22 | 13 | 15 | 75 |
-| last60d | 2026-07-16 | 12 | 170 | 22 | 40 | 19 | 161 |
-| 90d | 2026-06-16 | 25 | 264 | 25 | 50 | 20 | 335 |
-| last180d | 2026-03-18 | 72 | 432 | 30 | 124 | 28 | 579 |
-| 360d | 2025-09-19 | 100 | 535 | 30 | 216 | 43 | 912 |
-| last720d | 2024-09-24 | 100 | 535 | 30 | 216 | 43 | 1177 |
+| 30d | 2026-08-16 | 6 | 94 | 15 | 14 | 16 | 87 |
+| last60d | 2026-07-17 | 12 | 180 | 15 | 41 | 20 | 173 |
+| 90d | 2026-06-17 | 25 | 273 | 17 | 52 | 20 | 347 |
+| last180d | 2026-03-19 | 67 | 443 | 23 | 125 | 29 | 591 |
+| 360d | 2025-09-20 | 100 | 547 | 23 | 218 | 44 | 924 |
+| last720d | 2024-09-25 | 100 | 547 | 23 | 218 | 44 | 1189 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for llmfit lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:01:01Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T04:59:54Z._
