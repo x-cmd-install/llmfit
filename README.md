@@ -4,7 +4,7 @@
 
 Hundreds of models & providers. One command to find what runs on your hardware.
 
-[![x-cmd/install — llmfit Code Quality Monitoring Repo Card](https://repo.x-cmd.io/llmfit.svg)](https://x-cmd.com/install/llmfit)
+[![x-cmd/install — llmfit Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/llmfit.svg)](https://x-cmd.com/install/llmfit)
 
 ## Install
 
@@ -37,22 +37,22 @@ Total: **680,066** lines of code across **464** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 36,956 · **Forks**: 2,346 · **Open issues**: 264 · **Contributors**: 133
+- **Stars**: 37,046 · **Forks**: 2,361 · **Open issues**: 264 · **Contributors**: 133
 
 ## Totals (cumulative)
 
-- **Releases**: 134 · **Merged PRs**: 573 · **Open PRs**: 27 · **Closed issues**: 229 · **Open issues**: 35 · **Commits**: 1215
+- **Releases**: 134 · **Merged PRs**: 573 · **Open PRs**: 28 · **Closed issues**: 229 · **Open issues**: 35 · **Commits**: 1215
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 6 | 86 | 14 | 17 | 5 | 97 |
-| last60d | 2026-07-24 | 10 | 180 | 19 | 48 | 12 | 197 |
-| 90d | 2026-06-24 | 24 | 287 | 20 | 61 | 12 | 350 |
-| last180d | 2026-03-26 | 63 | 458 | 25 | 129 | 18 | 609 |
-| 360d | 2025-09-27 | 100 | 573 | 27 | 229 | 35 | 950 |
-| last720d | 2024-10-02 | 100 | 573 | 27 | 229 | 35 | 1215 |
+| 30d | 2026-08-24 | 6 | 81 | 15 | 17 | 5 | 97 |
+| last60d | 2026-07-25 | 10 | 179 | 20 | 48 | 12 | 197 |
+| 90d | 2026-06-25 | 24 | 287 | 21 | 60 | 12 | 350 |
+| last180d | 2026-03-27 | 63 | 458 | 26 | 128 | 18 | 609 |
+| 360d | 2025-09-28 | 100 | 573 | 28 | 229 | 35 | 950 |
+| last720d | 2024-10-03 | 100 | 573 | 28 | 229 | 35 | 1215 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for llmfit lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:59:21Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:06:37Z._
