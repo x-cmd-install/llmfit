@@ -32,27 +32,27 @@ Total: **714,736** lines of code across **465** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.1.16` (2026-09-19)
-- **Last commit**: 2026-10-02
+- **Last commit**: 2026-10-03
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 37,464 · **Forks**: 2,397 · **Open issues**: 275 · **Contributors**: 135
+- **Stars**: 37,570 · **Forks**: 2,408 · **Open issues**: 275 · **Contributors**: 135
 
 ## Totals (cumulative)
 
-- **Releases**: 134 · **Merged PRs**: 578 · **Open PRs**: 34 · **Closed issues**: 230 · **Open issues**: 45 · **Commits**: 1220
+- **Releases**: 134 · **Merged PRs**: 580 · **Open PRs**: 35 · **Closed issues**: 230 · **Open issues**: 45 · **Commits**: 1222
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 4 | 53 | 24 | 9 | 14 | 57 |
-| last60d | 2026-08-04 | 9 | 160 | 27 | 43 | 21 | 184 |
-| 90d | 2026-07-05 | 20 | 262 | 28 | 59 | 22 | 311 |
-| last180d | 2026-04-06 | 56 | 450 | 31 | 120 | 27 | 583 |
-| 360d | 2025-10-08 | 100 | 578 | 34 | 230 | 45 | 955 |
-| last720d | 2024-10-13 | 100 | 578 | 34 | 230 | 45 | 1220 |
+| 30d | 2026-09-04 | 2 | 54 | 25 | 9 | 14 | 59 |
+| last60d | 2026-08-05 | 8 | 158 | 28 | 41 | 21 | 186 |
+| 90d | 2026-07-06 | 19 | 259 | 29 | 58 | 22 | 313 |
+| last180d | 2026-04-07 | 55 | 448 | 32 | 119 | 27 | 585 |
+| 360d | 2025-10-09 | 100 | 580 | 35 | 230 | 45 | 957 |
+| last720d | 2024-10-14 | 100 | 580 | 35 | 230 | 45 | 1222 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for llmfit lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:27:27Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T06:01:29Z._
