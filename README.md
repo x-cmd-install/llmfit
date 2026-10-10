@@ -14,12 +14,12 @@ x install llmfit
 
 ## Code insight
 
-Total: **752,086** lines of code across **568** files in the top 5 languages.
+Total: **752,474** lines of code across **568** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 685,992 | 0 | 0 | 490 |
-| Rust | 53,178 | 3,309 | 5,548 | 42 |
+| Rust | 53,566 | 3,361 | 5,582 | 42 |
 | Python | 5,567 | 536 | 775 | 12 |
 | Jsx | 1,922 | 3 | 195 | 12 |
 | JavaScript | 1,783 | 6 | 140 | 12 |
@@ -37,22 +37,22 @@ Total: **752,086** lines of code across **568** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 37,732 · **Forks**: 2,423 · **Open issues**: 279 · **Contributors**: 139
+- **Stars**: 37,765 · **Forks**: 2,426 · **Open issues**: 279 · **Contributors**: 139
 
 ## Totals (cumulative)
 
-- **Releases**: 135 · **Merged PRs**: 599 · **Open PRs**: 24 · **Closed issues**: 241 · **Open issues**: 38 · **Commits**: 1242
+- **Releases**: 135 · **Merged PRs**: 604 · **Open PRs**: 24 · **Closed issues**: 244 · **Open issues**: 35 · **Commits**: 1247
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 3 | 60 | 13 | 12 | 13 | 0 |
-| last60d | 2026-08-10 | 8 | 158 | 17 | 40 | 20 | 0 |
-| 90d | 2026-07-11 | 15 | 249 | 18 | 60 | 21 | 0 |
-| last180d | 2026-04-12 | 53 | 457 | 21 | 113 | 24 | 0 |
-| 360d | 2025-10-14 | 100 | 599 | 24 | 241 | 38 | 0 |
-| last720d | 2024-10-19 | 100 | 599 | 24 | 241 | 38 | 1242 |
+| 30d | 2026-09-10 | 3 | 63 | 13 | 14 | 9 | 72 |
+| last60d | 2026-08-11 | 8 | 160 | 17 | 41 | 17 | 177 |
+| 90d | 2026-07-12 | 15 | 254 | 18 | 63 | 18 | 284 |
+| last180d | 2026-04-13 | 53 | 456 | 21 | 114 | 21 | 587 |
+| 360d | 2025-10-15 | 100 | 604 | 24 | 244 | 35 | 981 |
+| last720d | 2024-10-20 | 100 | 604 | 24 | 244 | 35 | 1247 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for llmfit lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T06:07:10Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T05:54:44Z._
