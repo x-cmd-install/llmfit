@@ -37,7 +37,7 @@ Total: **824,835** lines of code across **602** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 38,271 · **Forks**: 2,471 · **Open issues**: 288 · **Contributors**: 143
+- **Stars**: 38,310 · **Forks**: 2,471 · **Open issues**: 288 · **Contributors**: 143
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **824,835** lines of code across **602** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 1 | 49 | 24 | 11 | 13 | 62 |
-| last60d | 2026-08-24 | 7 | 142 | 27 | 30 | 16 | 165 |
-| 90d | 2026-07-25 | 11 | 242 | 29 | 62 | 22 | 260 |
-| last180d | 2026-04-26 | 43 | 448 | 33 | 104 | 25 | 555 |
-| 360d | 2025-10-28 | 100 | 636 | 35 | 250 | 38 | 1013 |
-| last720d | 2024-11-02 | 100 | 636 | 35 | 250 | 38 | 1278 |
+| 30d | 2026-09-24 | 1 | 48 | 24 | 11 | 13 | 62 |
+| last60d | 2026-08-25 | 7 | 139 | 27 | 29 | 16 | 165 |
+| 90d | 2026-07-26 | 11 | 242 | 29 | 62 | 22 | 260 |
+| last180d | 2026-04-27 | 43 | 443 | 33 | 104 | 25 | 555 |
+| 360d | 2025-10-29 | 100 | 636 | 35 | 250 | 38 | 1013 |
+| last720d | 2024-11-03 | 100 | 636 | 35 | 250 | 38 | 1278 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for llmfit lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:49:14Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:36:35Z._
