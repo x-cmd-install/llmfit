@@ -14,12 +14,12 @@ x install llmfit
 
 ## Code insight
 
-Total: **824,835** lines of code across **602** files in the top 5 languages.
+Total: **825,148** lines of code across **602** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 754,937 | 0 | 0 | 522 |
-| Rust | 55,576 | 3,438 | 5,751 | 42 |
+| Rust | 55,889 | 3,446 | 5,768 | 42 |
 | Python | 5,581 | 540 | 777 | 12 |
 | Jsx | 2,826 | 16 | 271 | 14 |
 | JavaScript | 2,189 | 13 | 161 | 12 |
@@ -32,27 +32,27 @@ Total: **824,835** lines of code across **602** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.1.17` (2026-10-08)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-10-24
 - **Assets in release**: 18
 
 ## Popularity
 
-- **Stars**: 38,310 · **Forks**: 2,471 · **Open issues**: 288 · **Contributors**: 143
+- **Stars**: 38,349 · **Forks**: 2,473 · **Open issues**: 288 · **Contributors**: 144
 
 ## Totals (cumulative)
 
-- **Releases**: 135 · **Merged PRs**: 636 · **Open PRs**: 35 · **Closed issues**: 250 · **Open issues**: 38 · **Commits**: 1278
+- **Releases**: 135 · **Merged PRs**: 638 · **Open PRs**: 34 · **Closed issues**: 251 · **Open issues**: 37 · **Commits**: 1280
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 1 | 48 | 24 | 11 | 13 | 62 |
-| last60d | 2026-08-25 | 7 | 139 | 27 | 29 | 16 | 165 |
-| 90d | 2026-07-26 | 11 | 242 | 29 | 62 | 22 | 260 |
-| last180d | 2026-04-27 | 43 | 443 | 33 | 104 | 25 | 555 |
-| 360d | 2025-10-29 | 100 | 636 | 35 | 250 | 38 | 1013 |
-| last720d | 2024-11-03 | 100 | 636 | 35 | 250 | 38 | 1278 |
+| 30d | 2026-09-25 | 1 | 49 | 23 | 12 | 12 | 64 |
+| last60d | 2026-08-26 | 6 | 140 | 26 | 30 | 15 | 167 |
+| 90d | 2026-07-27 | 11 | 239 | 28 | 62 | 20 | 262 |
+| last180d | 2026-04-28 | 42 | 445 | 32 | 103 | 24 | 557 |
+| 360d | 2025-10-30 | 100 | 638 | 34 | 251 | 37 | 1015 |
+| last720d | 2024-11-04 | 100 | 638 | 34 | 251 | 37 | 1280 |
 
 ## Release assets
 
@@ -79,7 +79,7 @@ Total: **824,835** lines of code across **602** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **15** distros on [repology.org](https://repology.org/project/llmfit). **7** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+Reported by **15** distros on [repology.org](https://repology.org/project/llmfit). **8** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -96,4 +96,4 @@ Install metadata for llmfit lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:36:35Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T04:39:19Z._
