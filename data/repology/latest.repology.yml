@@ -22,7 +22,7 @@
   visiblename: llmfit
   version: 1.1.17
   origversion: 1.1.17-alt1
-  status: newest
+  status: outdated
   summary: Hundreds of models & providers
   maintainers:
     - sirius@altlinux.org
@@ -35,8 +35,8 @@
   srcname: llmfit
   binname: llmfit
   visiblename: llmfit
-  version: 1.1.17
-  origversion: 1.1.17-1
+  version: 1.1.18
+  origversion: 1.1.18-1
   status: newest
   summary: CLI tool to tell which LLM models will run best on your hardware
   licenses:
@@ -58,12 +58,12 @@
   visiblename: llmfit
   version: 1.1.17
   origversion: null
-  status: newest
+  status: outdated
   summary: Hundreds of models & providers. One command to find what runs on your hardware
 - repo: homebrew
   srcname: llmfit
   visiblename: llmfit
-  version: 1.1.17
+  version: 1.1.18
   origversion: null
   status: newest
   summary: Find what models run on your hardware
@@ -80,7 +80,7 @@
   visiblename: llmfit
   version: 1.1.17
   origversion: null
-  status: newest
+  status: outdated
   summary: A terminal tool for finding best fitted LLM models for your machine.
   maintainers:
     - oytech@github
@@ -117,7 +117,7 @@
   visiblename: llmfit
   version: 1.1.17
   origversion: 1.1.17-1
-  status: newest
+  status: outdated
   summary: CLI tool to tell which LLM models will run best on your hardware
   licenses:
     - MIT
@@ -148,8 +148,8 @@
   srcname: llmfit
   binname: llmfit
   visiblename: llmfit
-  version: 1.1.17
-  origversion: 1.1.17-1
+  version: 1.1.18
+  origversion: 1.1.18-1
   status: newest
   summary: CLI tool to tell which LLM models will run best on your hardware
   licenses:
@@ -158,7 +158,7 @@
   subrepo: main
   binname: llmfit
   visiblename: llmfit
-  version: 1.1.17
+  version: 1.1.18
   origversion: null
   status: newest
   licenses:
