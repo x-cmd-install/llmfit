@@ -37,22 +37,22 @@ Total: **879,798** lines of code across **639** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 38,502 · **Forks**: 2,485 · **Open issues**: 288 · **Contributors**: 157
+- **Stars**: 38,524 · **Forks**: 2,486 · **Open issues**: 288 · **Contributors**: 157
 
 ## Totals (cumulative)
 
-- **Releases**: 136 · **Merged PRs**: 678 · **Open PRs**: 19 · **Closed issues**: 256 · **Open issues**: 32 · **Commits**: 1320
+- **Releases**: 136 · **Merged PRs**: 678 · **Open PRs**: 20 · **Closed issues**: 256 · **Open issues**: 32 · **Commits**: 1320
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 2 | 82 | 9 | 10 | 7 | 102 |
-| last60d | 2026-09-01 | 6 | 161 | 12 | 26 | 11 | 168 |
-| 90d | 2026-08-02 | 12 | 266 | 13 | 61 | 16 | 294 |
-| last180d | 2026-05-04 | 40 | 474 | 17 | 103 | 20 | 580 |
-| 360d | 2025-11-05 | 100 | 678 | 19 | 256 | 32 | 1055 |
-| last720d | 2024-11-10 | 100 | 678 | 19 | 256 | 32 | 1320 |
+| 30d | 2026-10-02 | 2 | 80 | 10 | 7 | 7 | 102 |
+| last60d | 2026-09-02 | 6 | 156 | 13 | 25 | 11 | 168 |
+| 90d | 2026-08-03 | 12 | 260 | 14 | 61 | 16 | 294 |
+| last180d | 2026-05-05 | 39 | 471 | 18 | 103 | 20 | 580 |
+| 360d | 2025-11-06 | 100 | 678 | 20 | 256 | 32 | 1055 |
+| last720d | 2024-11-11 | 100 | 678 | 20 | 256 | 32 | 1320 |
 
 ## Release assets
 
@@ -79,13 +79,13 @@ Total: **879,798** lines of code across **639** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **15** distros on [repology.org](https://repology.org/project/llmfit). **5** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **15** distros on [repology.org](https://repology.org/project/llmfit). **6** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `1.1.18` | ✅ latest |
-| Homebrew | `1.1.18` | ✅ latest |
-| Nix unstable | `1.1.16` | ⚠️ outdated |
+| Homebrew | `HEAD` | 🔄 rolling |
+| Nix unstable | `1.1.18` | ✅ latest |
 
 ## Improve this data
 
@@ -96,4 +96,4 @@ Install metadata for llmfit lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:35:13Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:07:16Z._
