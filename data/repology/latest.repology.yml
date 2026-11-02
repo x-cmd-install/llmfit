@@ -56,10 +56,24 @@
 - repo: chocolatey
   binname: llmfit
   visiblename: llmfit
-  version: 1.1.17
+  version: 1.1.18
   origversion: null
-  status: outdated
+  status: newest
   summary: Hundreds of models & providers. One command to find what runs on your hardware
+- repo: homebrew
+  srcname: llmfit
+  visiblename: llmfit
+  version: 1.1.18
+  origversion: null
+  status: newest
+  summary: Find what models run on your hardware
+- repo: homebrew
+  srcname: llmfit
+  visiblename: llmfit
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Find what models run on your hardware
 - repo: macports
   srcname: llm/llmfit
   binname: llmfit
@@ -149,17 +163,3 @@
   status: newest
   licenses:
     - MIT
-- repo: homebrew
-  srcname: llmfit
-  visiblename: llmfit
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Find what models run on your hardware
-- repo: homebrew
-  srcname: llmfit
-  visiblename: llmfit
-  version: 1.1.18
-  origversion: null
-  status: newest
-  summary: Find what models run on your hardware
