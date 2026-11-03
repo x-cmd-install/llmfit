@@ -88,28 +88,6 @@
     - MIT
   categories:
     - llm
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: llmfit
-  binname: llmfit
-  visiblename: llmfit
-  version: 1.1.14
-  origversion: 1.1.14-1
-  status: outdated
-  summary: CLI tool to tell which LLM models will run best on your hardware
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: llmfit
-  binname: llmfit
-  visiblename: llmfit
-  version: 1.1.16
-  origversion: 1.1.16-1
-  status: outdated
-  summary: CLI tool to tell which LLM models will run best on your hardware
-  licenses:
-    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: llmfit
