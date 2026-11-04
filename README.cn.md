@@ -14,15 +14,15 @@ x install llmfit
 
 ## 代码洞察
 
-合计: **879,798** 行代码（覆盖前 5 种语言、共 **639** 个文件）。
+合计: **884,097** 行代码（覆盖前 5 种语言、共 **643** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Json | 808,018 | 0 | 0 | 558 |
-| Rust | 57,272 | 3,516 | 5,880 | 43 |
-| Python | 5,726 | 566 | 807 | 12 |
+| Json | 808,409 | 0 | 0 | 560 |
+| Rust | 60,991 | 3,792 | 6,211 | 45 |
+| Python | 5,901 | 598 | 821 | 12 |
 | Jsx | 2,855 | 16 | 275 | 14 |
-| JavaScript | 2,199 | 13 | 161 | 12 |
+| JavaScript | 2,212 | 22 | 162 | 12 |
 
 ## 源代码
 
@@ -31,61 +31,61 @@ x install llmfit
 
 ## 发布
 
-- **最新版本**: `v1.1.18` (2026-10-28)
+- **最新版本**: `v1.1.20` (2026-11-03)
 - **最近提交**: 2026-11-03
 - **Release 含资产**: 18 个
 
 ## 流行度
 
-- **Star**: 38,586 · **Fork**: 2,495 · **开放 issue**: 288 · **贡献者**: 157
+- **Star**: 38,632 · **Fork**: 2,497 · **开放 issue**: 290 · **贡献者**: 157
 
 ## 累计统计
 
-- **发布数**: 136 · **已合并 PR**: 680 · **开放 PR**: 26 · **已关闭 issue**: 256 · **开放 issue**: 32 · **提交数**: 1322
+- **发布数**: 138 · **已合并 PR**: 688 · **开放 PR**: 20 · **已关闭 issue**: 256 · **开放 issue**: 34 · **提交数**: 1369
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 2 | 78 | 16 | 7 | 6 | 83 |
-| last60d | 2026-09-04 | 4 | 153 | 18 | 25 | 11 | 157 |
-| 90d | 2026-08-05 | 10 | 258 | 20 | 59 | 16 | 260 |
-| last180d | 2026-05-07 | 37 | 470 | 24 | 103 | 20 | 573 |
-| 360d | 2025-11-08 | 100 | 680 | 26 | 256 | 32 | 1057 |
-| last720d | 2024-11-13 | 100 | 680 | 26 | 256 | 32 | 1322 |
+| 30d | 2026-10-05 | 4 | 83 | 14 | 7 | 8 | 122 |
+| last60d | 2026-09-05 | 6 | 158 | 16 | 25 | 13 | 199 |
+| 90d | 2026-08-06 | 12 | 265 | 17 | 59 | 18 | 305 |
+| last180d | 2026-05-08 | 39 | 478 | 19 | 103 | 22 | 618 |
+| 360d | 2025-11-09 | 100 | 688 | 20 | 256 | 34 | 1103 |
+| last720d | 2024-11-14 | 100 | 688 | 20 | 256 | 34 | 1369 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [llmfit-v1.1.18-aarch64-apple-darwin.tar.gz](https://github.com/AlexsJones/llmfit/releases/download/v1.1.18/llmfit-v1.1.18-aarch64-apple-darwin.tar.gz) | 6.6 MiB | `native/darwin/arm64` |
-| [llmfit-v1.1.18-aarch64-apple-darwin.tar.gz.sha256](https://github.com/AlexsJones/llmfit/releases/download/v1.1.18/llmfit-v1.1.18-aarch64-apple-darwin.tar.gz.sha256) | 109 B | `native/darwin/arm64` |
-| [llmfit-v1.1.18-aarch64-pc-windows-msvc.zip](https://github.com/AlexsJones/llmfit/releases/download/v1.1.18/llmfit-v1.1.18-aarch64-pc-windows-msvc.zip) | 5.9 MiB | `native/win/arm64` |
-| [llmfit-v1.1.18-aarch64-pc-windows-msvc.zip.sha256](https://github.com/AlexsJones/llmfit/releases/download/v1.1.18/llmfit-v1.1.18-aarch64-pc-windows-msvc.zip.sha256) | 109 B | `native/win/arm64` |
-| [llmfit-v1.1.18-aarch64-unknown-linux-gnu.tar.gz](https://github.com/AlexsJones/llmfit/releases/download/v1.1.18/llmfit-v1.1.18-aarch64-unknown-linux-gnu.tar.gz) | 7.0 MiB | `native/linux/arm64/glibc` |
-| [llmfit-v1.1.18-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/AlexsJones/llmfit/releases/download/v1.1.18/llmfit-v1.1.18-aarch64-unknown-linux-gnu.tar.gz.sha256) | 114 B | `native/linux/arm64/glibc` |
-| [llmfit-v1.1.18-aarch64-unknown-linux-musl.tar.gz](https://github.com/AlexsJones/llmfit/releases/download/v1.1.18/llmfit-v1.1.18-aarch64-unknown-linux-musl.tar.gz) | 7.1 MiB | `native/linux/arm64/musl` |
-| [llmfit-v1.1.18-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/AlexsJones/llmfit/releases/download/v1.1.18/llmfit-v1.1.18-aarch64-unknown-linux-musl.tar.gz.sha256) | 115 B | `native/linux/arm64/musl` |
-| [llmfit-v1.1.18-riscv64gc-unknown-linux-gnu.tar.gz](https://github.com/AlexsJones/llmfit/releases/download/v1.1.18/llmfit-v1.1.18-riscv64gc-unknown-linux-gnu.tar.gz) | 7.1 MiB | `native/linux/riscv64/glibc` |
-| [llmfit-v1.1.18-riscv64gc-unknown-linux-gnu.tar.gz.sha256](https://github.com/AlexsJones/llmfit/releases/download/v1.1.18/llmfit-v1.1.18-riscv64gc-unknown-linux-gnu.tar.gz.sha256) | 116 B | `native/linux/riscv64/glibc` |
-| [llmfit-v1.1.18-x86_64-apple-darwin.tar.gz](https://github.com/AlexsJones/llmfit/releases/download/v1.1.18/llmfit-v1.1.18-x86_64-apple-darwin.tar.gz) | 6.6 MiB | `native/darwin/x64` |
-| [llmfit-v1.1.18-x86_64-apple-darwin.tar.gz.sha256](https://github.com/AlexsJones/llmfit/releases/download/v1.1.18/llmfit-v1.1.18-x86_64-apple-darwin.tar.gz.sha256) | 108 B | `native/darwin/x64` |
-| [llmfit-v1.1.18-x86_64-pc-windows-msvc.zip](https://github.com/AlexsJones/llmfit/releases/download/v1.1.18/llmfit-v1.1.18-x86_64-pc-windows-msvc.zip) | 6.2 MiB | `native/win/x64` |
-| [llmfit-v1.1.18-x86_64-pc-windows-msvc.zip.sha256](https://github.com/AlexsJones/llmfit/releases/download/v1.1.18/llmfit-v1.1.18-x86_64-pc-windows-msvc.zip.sha256) | 108 B | `native/win/x64` |
-| [llmfit-v1.1.18-x86_64-unknown-linux-gnu.tar.gz](https://github.com/AlexsJones/llmfit/releases/download/v1.1.18/llmfit-v1.1.18-x86_64-unknown-linux-gnu.tar.gz) | 7.1 MiB | `native/linux/x64/glibc` |
-| [llmfit-v1.1.18-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/AlexsJones/llmfit/releases/download/v1.1.18/llmfit-v1.1.18-x86_64-unknown-linux-gnu.tar.gz.sha256) | 113 B | `native/linux/x64/glibc` |
-| [llmfit-v1.1.18-x86_64-unknown-linux-musl.tar.gz](https://github.com/AlexsJones/llmfit/releases/download/v1.1.18/llmfit-v1.1.18-x86_64-unknown-linux-musl.tar.gz) | 7.4 MiB | `native/linux/x64/musl` |
-| [llmfit-v1.1.18-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/AlexsJones/llmfit/releases/download/v1.1.18/llmfit-v1.1.18-x86_64-unknown-linux-musl.tar.gz.sha256) | 114 B | `native/linux/x64/musl` |
+| [llmfit-v1.1.20-aarch64-apple-darwin.tar.gz](https://github.com/AlexsJones/llmfit/releases/download/v1.1.20/llmfit-v1.1.20-aarch64-apple-darwin.tar.gz) | 7.0 MiB | `native/darwin/arm64` |
+| [llmfit-v1.1.20-aarch64-apple-darwin.tar.gz.sha256](https://github.com/AlexsJones/llmfit/releases/download/v1.1.20/llmfit-v1.1.20-aarch64-apple-darwin.tar.gz.sha256) | 109 B | `native/darwin/arm64` |
+| [llmfit-v1.1.20-aarch64-pc-windows-msvc.zip](https://github.com/AlexsJones/llmfit/releases/download/v1.1.20/llmfit-v1.1.20-aarch64-pc-windows-msvc.zip) | 6.2 MiB | `native/win/arm64` |
+| [llmfit-v1.1.20-aarch64-pc-windows-msvc.zip.sha256](https://github.com/AlexsJones/llmfit/releases/download/v1.1.20/llmfit-v1.1.20-aarch64-pc-windows-msvc.zip.sha256) | 109 B | `native/win/arm64` |
+| [llmfit-v1.1.20-aarch64-unknown-linux-gnu.tar.gz](https://github.com/AlexsJones/llmfit/releases/download/v1.1.20/llmfit-v1.1.20-aarch64-unknown-linux-gnu.tar.gz) | 7.4 MiB | `native/linux/arm64/glibc` |
+| [llmfit-v1.1.20-aarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/AlexsJones/llmfit/releases/download/v1.1.20/llmfit-v1.1.20-aarch64-unknown-linux-gnu.tar.gz.sha256) | 114 B | `native/linux/arm64/glibc` |
+| [llmfit-v1.1.20-aarch64-unknown-linux-musl.tar.gz](https://github.com/AlexsJones/llmfit/releases/download/v1.1.20/llmfit-v1.1.20-aarch64-unknown-linux-musl.tar.gz) | 7.6 MiB | `native/linux/arm64/musl` |
+| [llmfit-v1.1.20-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/AlexsJones/llmfit/releases/download/v1.1.20/llmfit-v1.1.20-aarch64-unknown-linux-musl.tar.gz.sha256) | 115 B | `native/linux/arm64/musl` |
+| [llmfit-v1.1.20-riscv64gc-unknown-linux-gnu.tar.gz](https://github.com/AlexsJones/llmfit/releases/download/v1.1.20/llmfit-v1.1.20-riscv64gc-unknown-linux-gnu.tar.gz) | 7.5 MiB | `native/linux/riscv64/glibc` |
+| [llmfit-v1.1.20-riscv64gc-unknown-linux-gnu.tar.gz.sha256](https://github.com/AlexsJones/llmfit/releases/download/v1.1.20/llmfit-v1.1.20-riscv64gc-unknown-linux-gnu.tar.gz.sha256) | 116 B | `native/linux/riscv64/glibc` |
+| [llmfit-v1.1.20-x86_64-apple-darwin.tar.gz](https://github.com/AlexsJones/llmfit/releases/download/v1.1.20/llmfit-v1.1.20-x86_64-apple-darwin.tar.gz) | 7.0 MiB | `native/darwin/x64` |
+| [llmfit-v1.1.20-x86_64-apple-darwin.tar.gz.sha256](https://github.com/AlexsJones/llmfit/releases/download/v1.1.20/llmfit-v1.1.20-x86_64-apple-darwin.tar.gz.sha256) | 108 B | `native/darwin/x64` |
+| [llmfit-v1.1.20-x86_64-pc-windows-msvc.zip](https://github.com/AlexsJones/llmfit/releases/download/v1.1.20/llmfit-v1.1.20-x86_64-pc-windows-msvc.zip) | 6.6 MiB | `native/win/x64` |
+| [llmfit-v1.1.20-x86_64-pc-windows-msvc.zip.sha256](https://github.com/AlexsJones/llmfit/releases/download/v1.1.20/llmfit-v1.1.20-x86_64-pc-windows-msvc.zip.sha256) | 108 B | `native/win/x64` |
+| [llmfit-v1.1.20-x86_64-unknown-linux-gnu.tar.gz](https://github.com/AlexsJones/llmfit/releases/download/v1.1.20/llmfit-v1.1.20-x86_64-unknown-linux-gnu.tar.gz) | 7.5 MiB | `native/linux/x64/glibc` |
+| [llmfit-v1.1.20-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/AlexsJones/llmfit/releases/download/v1.1.20/llmfit-v1.1.20-x86_64-unknown-linux-gnu.tar.gz.sha256) | 113 B | `native/linux/x64/glibc` |
+| [llmfit-v1.1.20-x86_64-unknown-linux-musl.tar.gz](https://github.com/AlexsJones/llmfit/releases/download/v1.1.20/llmfit-v1.1.20-x86_64-unknown-linux-musl.tar.gz) | 7.8 MiB | `native/linux/x64/musl` |
+| [llmfit-v1.1.20-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/AlexsJones/llmfit/releases/download/v1.1.20/llmfit-v1.1.20-x86_64-unknown-linux-musl.tar.gz.sha256) | 114 B | `native/linux/x64/musl` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/llmfit) 上共有 **13** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**4** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/llmfit) 上共有 **13** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Arch | `1.1.18` | ✅ latest |
-| Homebrew | `1.1.18` | ✅ latest |
-| Nix unstable | `1.1.18` | ✅ latest |
+| Arch | `1.1.20` | ✅ latest |
+| Homebrew | `1.1.20` | ✅ latest |
+| Nix unstable | `1.1.18` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -96,4 +96,4 @@ llmfit 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261103.yml` · 2026-11-03T06:50:02Z._
+_数据快照: `data/card/261104.yml` · 2026-11-04T06:24:29Z._
