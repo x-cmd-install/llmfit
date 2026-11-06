@@ -1,3 +1,19 @@
+- repo: altsisyphus
+  srcname: llmfit
+  binnames:
+    - llmfit
+    - llmfit-debuginfo
+  visiblename: llmfit
+  version: 1.1.20
+  origversion: 1.1.20-alt1
+  status: newest
+  summary: Hundreds of models & providers
+  maintainers:
+    - sirius@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Sciences/Computer science
 - repo: alt_p11
   srcname: llmfit
   binnames:
@@ -6,22 +22,6 @@
   visiblename: llmfit
   version: 1.1.16
   origversion: 1.1.16-alt1
-  status: outdated
-  summary: Hundreds of models & providers
-  maintainers:
-    - sirius@altlinux.org
-  licenses:
-    - MIT
-  categories:
-    - Sciences/Computer science
-- repo: altsisyphus
-  srcname: llmfit
-  binnames:
-    - llmfit
-    - llmfit-debuginfo
-  visiblename: llmfit
-  version: 1.1.18
-  origversion: 1.1.18-alt1
   status: outdated
   summary: Hundreds of models & providers
   maintainers:
@@ -78,9 +78,9 @@
   srcname: llm/llmfit
   binname: llmfit
   visiblename: llmfit
-  version: 1.1.18
+  version: 1.1.20
   origversion: null
-  status: outdated
+  status: newest
   summary: A terminal tool for finding best fitted LLM models for your machine.
   maintainers:
     - oytech@github
