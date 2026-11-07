@@ -37,22 +37,22 @@ Total: **884,318** lines of code across **643** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 38,699 · **Forks**: 2,499 · **Open issues**: 291 · **Contributors**: 157
+- **Stars**: 38,726 · **Forks**: 2,497 · **Open issues**: 291 · **Contributors**: 157
 
 ## Totals (cumulative)
 
-- **Releases**: 138 · **Merged PRs**: 689 · **Open PRs**: 21 · **Closed issues**: 256 · **Open issues**: 35 · **Commits**: 1370
+- **Releases**: 138 · **Merged PRs**: 689 · **Open PRs**: 22 · **Closed issues**: 256 · **Open issues**: 35 · **Commits**: 1370
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 4 | 81 | 15 | 4 | 8 | 123 |
-| last60d | 2026-09-07 | 6 | 152 | 17 | 25 | 14 | 200 |
-| 90d | 2026-08-08 | 12 | 264 | 18 | 56 | 19 | 306 |
-| last180d | 2026-05-10 | 39 | 477 | 20 | 103 | 23 | 619 |
-| 360d | 2025-11-11 | 100 | 689 | 21 | 256 | 35 | 1104 |
-| last720d | 2024-11-16 | 100 | 689 | 21 | 256 | 35 | 1370 |
+| 30d | 2026-10-08 | 4 | 80 | 16 | 4 | 8 | 123 |
+| last60d | 2026-09-08 | 6 | 150 | 18 | 25 | 14 | 200 |
+| 90d | 2026-08-09 | 12 | 263 | 19 | 56 | 19 | 306 |
+| last180d | 2026-05-11 | 38 | 477 | 21 | 102 | 22 | 619 |
+| 360d | 2025-11-12 | 100 | 689 | 22 | 256 | 35 | 1104 |
+| last720d | 2024-11-17 | 100 | 689 | 22 | 256 | 35 | 1370 |
 
 ## Release assets
 
@@ -79,7 +79,7 @@ Total: **884,318** lines of code across **643** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **13** distros on [repology.org](https://repology.org/project/llmfit). **6** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+Reported by **15** distros on [repology.org](https://repology.org/project/llmfit). **7** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -96,4 +96,4 @@ Install metadata for llmfit lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:47:47Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:10:11Z._
