@@ -67,13 +67,6 @@
   origversion: null
   status: newest
   summary: Find what models run on your hardware
-- repo: homebrew
-  srcname: llmfit
-  visiblename: llmfit
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Find what models run on your hardware
 - repo: macports
   srcname: llm/llmfit
   binname: llmfit
@@ -104,9 +97,9 @@
   srcname: llmfit
   binname: llmfit
   visiblename: llmfit
-  version: 1.1.18
-  origversion: 1.1.18-1
-  status: outdated
+  version: 1.1.20
+  origversion: 1.1.20-1
+  status: newest
   summary: CLI tool to tell which LLM models will run best on your hardware
   licenses:
     - MIT
@@ -163,3 +156,10 @@
   status: newest
   licenses:
     - MIT
+- repo: homebrew
+  srcname: llmfit
+  visiblename: llmfit
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Find what models run on your hardware
