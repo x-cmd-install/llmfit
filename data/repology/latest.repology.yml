@@ -67,6 +67,13 @@
   origversion: null
   status: newest
   summary: Find what models run on your hardware
+- repo: homebrew
+  srcname: llmfit
+  visiblename: llmfit
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Find what models run on your hardware
 - repo: macports
   srcname: llm/llmfit
   binname: llmfit
@@ -128,9 +135,9 @@
 - repo: nix_unstable
   srcname: llmfit
   visiblename: llmfit
-  version: 1.1.18
+  version: 1.1.20
   origversion: null
-  status: outdated
+  status: newest
   summary: TUI to find LLM models right sized for the system's RAM, CPU, and GPU
   maintainers:
     - mail@beyermatthias.de
@@ -156,10 +163,3 @@
   status: newest
   licenses:
     - MIT
-- repo: homebrew
-  srcname: llmfit
-  visiblename: llmfit
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Find what models run on your hardware
