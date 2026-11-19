@@ -1,10 +1,12 @@
-- repo: scoop
-  subrepo: main
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: llmfit
   binname: llmfit
   visiblename: llmfit
   version: 1.1.20
-  origversion: null
+  origversion: 1.1.20-1
   status: newest
+  summary: CLI tool to tell which LLM models will run best on your hardware
   licenses:
     - MIT
 - repo: alt_p11
@@ -13,9 +15,9 @@
     - llmfit
     - llmfit-debuginfo
   visiblename: llmfit
-  version: 1.1.16
-  origversion: 1.1.16-alt1
-  status: outdated
+  version: 1.1.20
+  origversion: 1.1.20-alt1
+  status: newest
   summary: Hundreds of models & providers
   maintainers:
     - sirius@altlinux.org
@@ -76,17 +78,6 @@
   origversion: null
   status: newest
   summary: Find what models run on your hardware
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: llmfit
-  binname: llmfit
-  visiblename: llmfit
-  version: 1.1.20
-  origversion: 1.1.20-1
-  status: newest
-  summary: CLI tool to tell which LLM models will run best on your hardware
-  licenses:
-    - MIT
 - repo: homebrew
   srcname: llmfit
   visiblename: llmfit
@@ -94,17 +85,6 @@
   origversion: null
   status: rolling
   summary: Find what models run on your hardware
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: llmfit
-  binname: llmfit
-  visiblename: llmfit
-  version: 1.1.20
-  origversion: 1.1.20-1
-  status: newest
-  summary: CLI tool to tell which LLM models will run best on your hardware
-  licenses:
-    - MIT
 - repo: macports
   srcname: llm/llmfit
   binname: llmfit
@@ -127,6 +107,17 @@
   version: 1.1.16
   origversion: 1.1.16-1
   status: outdated
+  summary: CLI tool to tell which LLM models will run best on your hardware
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: llmfit
+  binname: llmfit
+  visiblename: llmfit
+  version: 1.1.20
+  origversion: 1.1.20-1
+  status: newest
   summary: CLI tool to tell which LLM models will run best on your hardware
   licenses:
     - MIT
@@ -161,5 +152,14 @@
   origversion: 1.1.20-1
   status: newest
   summary: CLI tool to tell which LLM models will run best on your hardware
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: llmfit
+  visiblename: llmfit
+  version: 1.1.20
+  origversion: null
+  status: newest
   licenses:
     - MIT
