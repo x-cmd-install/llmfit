@@ -14,12 +14,12 @@ x install llmfit
 
 ## 代码洞察
 
-合计: **957,503** 行代码（覆盖前 5 种语言、共 **666** 个文件）。
+合计: **957,556** 行代码（覆盖前 5 种语言、共 **666** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Json | 879,993 | 0 | 0 | 578 |
-| Rust | 62,142 | 3,823 | 6,312 | 48 |
+| Rust | 62,195 | 3,839 | 6,317 | 48 |
 | Python | 5,934 | 595 | 825 | 12 |
 | Jsx | 2,886 | 16 | 285 | 14 |
 | JavaScript | 2,818 | 22 | 175 | 14 |
@@ -32,27 +32,27 @@ x install llmfit
 ## 发布
 
 - **最新版本**: `v1.1.21` (2026-11-23)
-- **最近提交**: 2026-11-24
+- **最近提交**: 2026-11-25
 - **Release 含资产**: 18 个
 
 ## 流行度
 
-- **Star**: 39,274 · **Fork**: 2,542 · **开放 issue**: 297 · **贡献者**: 165
+- **Star**: 39,294 · **Fork**: 2,546 · **开放 issue**: 297 · **贡献者**: 166
 
 ## 累计统计
 
-- **发布数**: 139 · **已合并 PR**: 717 · **开放 PR**: 24 · **已关闭 issue**: 262 · **开放 issue**: 35 · **提交数**: 1400
+- **发布数**: 139 · **已合并 PR**: 720 · **开放 PR**: 23 · **已关闭 issue**: 262 · **开放 issue**: 35 · **提交数**: 1403
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 4 | 59 | 19 | 3 | 6 | 72 |
-| last60d | 2026-09-25 | 5 | 129 | 21 | 21 | 12 | 174 |
-| 90d | 2026-08-26 | 10 | 219 | 21 | 39 | 15 | 253 |
-| last180d | 2026-05-28 | 34 | 474 | 23 | 98 | 22 | 601 |
-| 360d | 2025-11-29 | 100 | 717 | 24 | 262 | 35 | 1132 |
-| last720d | 2024-12-04 | 100 | 717 | 24 | 262 | 35 | 1400 |
+| 30d | 2026-10-26 | 4 | 55 | 18 | 3 | 6 | 0 |
+| last60d | 2026-09-26 | 5 | 130 | 20 | 18 | 12 | 0 |
+| 90d | 2026-08-27 | 10 | 220 | 20 | 37 | 15 | 0 |
+| last180d | 2026-05-29 | 34 | 477 | 22 | 97 | 22 | 0 |
+| 360d | 2025-11-30 | 100 | 720 | 23 | 262 | 35 | 0 |
+| last720d | 2024-12-05 | 100 | 720 | 23 | 262 | 35 | 1403 |
 
 ## Release 资产
 
@@ -77,16 +77,6 @@ x install llmfit
 | [llmfit-v1.1.21-x86_64-unknown-linux-musl.tar.gz](https://github.com/AlexsJones/llmfit/releases/download/v1.1.21/llmfit-v1.1.21-x86_64-unknown-linux-musl.tar.gz) | 8.1 MiB | `native/linux/x64/musl` |
 | [llmfit-v1.1.21-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/AlexsJones/llmfit/releases/download/v1.1.21/llmfit-v1.1.21-x86_64-unknown-linux-musl.tar.gz.sha256) | 114 B | `native/linux/x64/musl` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/llmfit) 上共有 **15** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**10** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `1.1.21` | ✅ latest |
-| Homebrew | `1.1.20` | ⚠️ outdated |
-| Nix unstable | `1.1.20` | ⚠️ outdated |
-
 ## 改进这些数据
 
 llmfit 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `llmfit` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -96,4 +86,4 @@ llmfit 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T09:50:13Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:34:20Z._
