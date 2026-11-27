@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 7588640,
       "digest": "sha256:7aa7aba256ded3697dfaf66d5f177c1b6fbfa8c83683bd6f4d2a9ce821c491f7",
-      "download_count": 116,
+      "download_count": 167,
       "created_at": "2026-11-23T12:40:22Z",
       "updated_at": "2026-11-23T12:40:23Z",
       "browser_download_url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.21/llmfit-v1.1.21-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 109,
       "digest": "sha256:9ada1a61bafc4e8fcbce1d13db6f91db35ccf8c589d6ecea3ee017bbaee7af43",
-      "download_count": 41,
+      "download_count": 66,
       "created_at": "2026-11-23T12:40:22Z",
       "updated_at": "2026-11-23T12:40:22Z",
       "browser_download_url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.21/llmfit-v1.1.21-aarch64-apple-darwin.tar.gz.sha256"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6805065,
       "digest": "sha256:4c839f2b8f4567e9ea73b6167726c0107d7382595c5cc78045c36d81cd774167",
-      "download_count": 179,
+      "download_count": 259,
       "created_at": "2026-11-23T12:40:22Z",
       "updated_at": "2026-11-23T12:40:23Z",
       "browser_download_url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.21/llmfit-v1.1.21-aarch64-pc-windows-msvc.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 109,
       "digest": "sha256:ed247b83dd1b95dcd933f9251e42037efc54a918017212a23eab120cf65391dd",
-      "download_count": 49,
+      "download_count": 61,
       "created_at": "2026-11-23T12:40:22Z",
       "updated_at": "2026-11-23T12:40:22Z",
       "browser_download_url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.21/llmfit-v1.1.21-aarch64-pc-windows-msvc.zip.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 8084928,
       "digest": "sha256:e8365234e94b28589357cccd203a17ca98cb7a4cf808a5b2fab5e8b99d6d3419",
-      "download_count": 34,
+      "download_count": 48,
       "created_at": "2026-11-23T12:40:22Z",
       "updated_at": "2026-11-23T12:40:23Z",
       "browser_download_url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.21/llmfit-v1.1.21-aarch64-unknown-linux-gnu.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 114,
       "digest": "sha256:2317bb87361953099bae0c8cca4862b9a5c3677388fe85e16b87a97048c8ff16",
-      "download_count": 19,
+      "download_count": 22,
       "created_at": "2026-11-23T12:40:22Z",
       "updated_at": "2026-11-23T12:40:22Z",
       "browser_download_url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.21/llmfit-v1.1.21-aarch64-unknown-linux-gnu.tar.gz.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 8199571,
       "digest": "sha256:bd981b81a953e252cebb23207bacda43563a1e35358aabb25b182883a2e039cf",
-      "download_count": 38,
+      "download_count": 58,
       "created_at": "2026-11-23T12:40:22Z",
       "updated_at": "2026-11-23T12:40:23Z",
       "browser_download_url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.21/llmfit-v1.1.21-aarch64-unknown-linux-musl.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 115,
       "digest": "sha256:56504153c1a1e16b6a98c0ab0f303af9242decbdc2922eba3028d4a0c9c3ed0d",
-      "download_count": 31,
+      "download_count": 45,
       "created_at": "2026-11-23T12:40:22Z",
       "updated_at": "2026-11-23T12:40:22Z",
       "browser_download_url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.21/llmfit-v1.1.21-aarch64-unknown-linux-musl.tar.gz.sha256"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 8128870,
       "digest": "sha256:5b05f90e2028d89a89ac390198fc5f4e3d86583e25008045b7a68e2c52fb4678",
-      "download_count": 14,
+      "download_count": 16,
       "created_at": "2026-11-23T12:40:22Z",
       "updated_at": "2026-11-23T12:40:23Z",
       "browser_download_url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.21/llmfit-v1.1.21-riscv64gc-unknown-linux-gnu.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 7655101,
       "digest": "sha256:4b372792c9064260e032b5398311b8c268017e86e7391cb8455049e40f205ca6",
-      "download_count": 28,
+      "download_count": 35,
       "created_at": "2026-11-23T12:40:22Z",
       "updated_at": "2026-11-23T12:40:23Z",
       "browser_download_url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.21/llmfit-v1.1.21-x86_64-apple-darwin.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 108,
       "digest": "sha256:4d385a2b8ce05a959e56229bd94c9cf3623b653c24e7e04bbc5c80c93d6b79fa",
-      "download_count": 15,
+      "download_count": 21,
       "created_at": "2026-11-23T12:40:22Z",
       "updated_at": "2026-11-23T12:40:22Z",
       "browser_download_url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.21/llmfit-v1.1.21-x86_64-apple-darwin.tar.gz.sha256"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 7161092,
       "digest": "sha256:c2f98f41121d01df68eb2dd4b86c3269537c8c96d24dd22de3e07e093c329d43",
-      "download_count": 1560,
+      "download_count": 1897,
       "created_at": "2026-11-23T12:40:22Z",
       "updated_at": "2026-11-23T12:40:23Z",
       "browser_download_url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.21/llmfit-v1.1.21-x86_64-pc-windows-msvc.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 108,
       "digest": "sha256:ba909b8ce9f30847b63fd782cdaaca144cfa45525b780ff773cd191a5217717f",
-      "download_count": 67,
+      "download_count": 99,
       "created_at": "2026-11-23T12:40:22Z",
       "updated_at": "2026-11-23T12:40:22Z",
       "browser_download_url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.21/llmfit-v1.1.21-x86_64-pc-windows-msvc.zip.sha256"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 8141888,
       "digest": "sha256:f61a27eb660aeca6536a290ee5789824cbf36a84ba932a2d98e397a33e7fe46d",
-      "download_count": 272,
+      "download_count": 331,
       "created_at": "2026-11-23T12:40:22Z",
       "updated_at": "2026-11-23T12:40:23Z",
       "browser_download_url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.21/llmfit-v1.1.21-x86_64-unknown-linux-gnu.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 113,
       "digest": "sha256:ee26d2ec798edcdb172a10b04393bd5d3edc70cc4be781bf4b598497b9a11a8d",
-      "download_count": 34,
+      "download_count": 44,
       "created_at": "2026-11-23T12:40:22Z",
       "updated_at": "2026-11-23T12:40:22Z",
       "browser_download_url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.21/llmfit-v1.1.21-x86_64-unknown-linux-gnu.tar.gz.sha256"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 8442819,
       "digest": "sha256:5cb718af4ff5b38ed128dbb484be72aded58d40068bf3b8428d0726ce9c7d748",
-      "download_count": 394,
+      "download_count": 545,
       "created_at": "2026-11-23T12:40:22Z",
       "updated_at": "2026-11-23T12:40:23Z",
       "browser_download_url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.21/llmfit-v1.1.21-x86_64-unknown-linux-musl.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 114,
       "digest": "sha256:b48a47521ad76c4e524d3526805c58b2035615bab93630097a7d3b55cebb2a42",
-      "download_count": 357,
+      "download_count": 497,
       "created_at": "2026-11-23T12:40:22Z",
       "updated_at": "2026-11-23T12:40:23Z",
       "browser_download_url": "https://github.com/AlexsJones/llmfit/releases/download/v1.1.21/llmfit-v1.1.21-x86_64-unknown-linux-musl.tar.gz.sha256"
