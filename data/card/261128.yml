@@ -1,0 +1,184 @@
+about:
+  description: "Hundreds of models & providers. One command to find what runs on your hardware."
+  license: MIT
+  homepage: 
+  head: 56ee743
+  archived: false
+  latestVersion: "v1.1.21"
+  latestRelease: "v1.1.21"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T07:44:33Z
+timeline:
+  created: 2026-02-15
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-23
+  lastRelease: 2026-11-23
+  lastPrerelease: 
+popularity:
+  star: 39450
+  watcher: 115
+  fork: 2562
+  release: 139
+  contributor: 168
+  pullRequest: 963
+  issue: 299
+language:
+  Rust: 2853973
+  Python: 306519
+  JavaScript: 195059
+  CSS: 35657
+  Shell: 15907
+  HTML: 3932
+  Makefile: 3013
+  Dockerfile: 2821
+  Tape: 1921
+  Nix: 1419
+totalBytes: 3420221
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 3
+    mergedPR: 52
+    openPR: 20
+    closedIssue: 3
+    openIssue: 8
+    commit: 81
+  last60d:
+    since: 2026-09-29
+    release: 5
+    mergedPR: 132
+    openPR: 21
+    closedIssue: 18
+    openIssue: 13
+    commit: 183
+  last90d:
+    since: 2026-08-30
+    release: 9
+    mergedPR: 216
+    openPR: 21
+    closedIssue: 31
+    openIssue: 17
+    commit: 262
+  last180d:
+    since: 2026-06-01
+    release: 33
+    mergedPR: 476
+    openPR: 23
+    closedIssue: 95
+    openIssue: 24
+    commit: 610
+  last360d:
+    since: 2025-12-03
+    release: 100
+    mergedPR: 725
+    openPR: 24
+    closedIssue: 262
+    openIssue: 37
+    commit: 1141
+  last720d:
+    since: 2024-12-08
+    release: 100
+    mergedPR: 725
+    openPR: 24
+    closedIssue: 262
+    openIssue: 37
+    commit: 1408
+total:
+  release: 139
+  mergedPR: 726
+  openPR: 24
+  closedIssue: 262
+  openIssue: 37
+  commit: 1408
+---
+path: /home/runner/.x-repo/github.com/AlexsJones/llmfit
+collectedAt: 2026-11-28T07:44:39Z
+loc:
+  Json:
+    code: 880191
+    comments: 0
+    blanks: 0
+    files: 584
+  Rust:
+    code: 62675
+    comments: 3854
+    blanks: 6383
+    files: 48
+  Python:
+    code: 5934
+    comments: 595
+    blanks: 825
+    files: 12
+  Jsx:
+    code: 2886
+    comments: 16
+    blanks: 285
+    files: 14
+  JavaScript:
+    code: 2818
+    comments: 22
+    blanks: 175
+    files: 14
+  Css:
+    code: 1492
+    comments: 75
+    blanks: 232
+    files: 3
+  Yaml:
+    code: 1442
+    comments: 0
+    blanks: 33
+    files: 2
+  Sh:
+    code: 321
+    comments: 72
+    blanks: 72
+    files: 5
+  Toml:
+    code: 173
+    comments: 6
+    blanks: 25
+    files: 5
+  Html:
+    code: 102
+    comments: 1
+    blanks: 3
+    files: 3
+  Makefile:
+    code: 66
+    comments: 27
+    blanks: 22
+    files: 2
+  Svg:
+    code: 64
+    comments: 14
+    blanks: 13
+    files: 1
+  Nix:
+    code: 39
+    comments: 1
+    blanks: 7
+    files: 1
+  Dockerfile:
+    code: 31
+    comments: 33
+    blanks: 15
+    files: 1
+  Markdown:
+    code: 0
+    comments: 4891
+    blanks: 1902
+    files: 27
+  Text:
+    code: 0
+    comments: 52
+    blanks: 5
+    files: 16
+total:
+  code: 958633
+  comments: 13342
+  blanks: 10260
+  files: 738
+---
+
+---
